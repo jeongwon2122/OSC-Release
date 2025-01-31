@@ -1,0 +1,240 @@
+[
+  {
+    "channel_type": "channel",
+    "index": 1,
+    "channel_group": "강대상",
+    "channel_name": "pastor-L",
+    "IsUse": true
+  },
+  {
+    "channel_type": "channel",
+    "index": 2,
+    "channel_group": "강대상",
+    "channel_name": "pastor-R",
+    "IsUse": true
+  },
+  {
+    "channel_type": "channel",
+    "index": 3,
+    "channel_group": "무선마이크",
+    "channel_name": "WL3",
+    "IsUse": true
+  },
+  {
+    "channel_type": "channel",
+    "index": 4,
+    "channel_group": "무선마이크",
+    "channel_name": "WL1",
+    "IsUse": true
+  },
+  {
+    "channel_type": "channel",
+    "index": 5,
+    "channel_group": "",
+    "channel_name": "cho1",
+    "IsUse": true
+  },
+  {
+    "channel_type": "channel",
+    "index": 6,
+    "channel_group": "",
+    "channel_name": "cho2",
+    "IsUse": true
+  },
+  {
+    "channel_type": "channel",
+    "index": 7,
+    "channel_group": "바이올린",
+    "channel_name": "Violin",
+    "IsUse": true
+  },
+  {
+    "channel_type": "channel",
+    "index": 8,
+    "channel_group": "키보드",
+    "channel_name": "ELE TONE",
+    "IsUse": true
+  },
+  {
+    "channel_type": "channel",
+    "index": 9,
+    "channel_group": "유선마이크",
+    "channel_name": "sing1",
+    "IsUse": true
+  },
+  {
+    "channel_type": "channel",
+    "index": 10,
+    "channel_group": "유선마이크",
+    "channel_name": "sing2",
+    "IsUse": true
+  },
+  {
+    "channel_type": "channel",
+    "index": 11,
+    "channel_group": "유선마이크",
+    "channel_name": "sing3",
+    "IsUse": true
+  },
+  {
+    "channel_type": "channel",
+    "index": 12,
+    "channel_group": "드럼",
+    "channel_name": "DRUM",
+    "IsUse": true
+  },
+  {
+    "channel_type": "channel",
+    "index": 13,
+    "channel_group": "유선마이크",
+    "channel_name": "sing5",
+    "IsUse": true
+  },
+  {
+    "channel_type": "channel",
+    "index": 14,
+    "channel_group": "유선마이크",
+    "channel_name": "sing6",
+    "IsUse": true
+  },
+  {
+    "channel_type": "channel",
+    "index": 15,
+    "channel_group": "",
+    "channel_name": "Ch 15",
+    "IsUse": false
+  },
+  {
+    "channel_type": "channel",
+    "index": 16,
+    "channel_group": "기타",
+    "channel_name": "AG",
+    "IsUse": true
+  },
+  {
+    "channel_type": "channel",
+    "index": 17,
+    "channel_group": "피아노",
+    "channel_name": "piano",
+    "IsUse": true
+  },
+  {
+    "channel_type": "channel",
+    "index": 18,
+    "channel_group": "",
+    "channel_name": "Ch 18",
+    "IsUse": false
+  },
+  {
+    "channel_type": "channel",
+    "index": 19,
+    "channel_group": "첼로",
+    "channel_name": "cello",
+    "IsUse": true
+  },
+  {
+    "channel_type": "channel",
+    "index": 20,
+    "channel_group": "아래강대상",
+    "channel_name": "M-MC",
+    "IsUse": true
+  },
+  {
+    "channel_type": "channel",
+    "index": 21,
+    "channel_group": "유선마이크",
+    "channel_name": "sing10",
+    "IsUse": true
+  },
+  {
+    "channel_type": "channel",
+    "index": 22,
+    "channel_group": "",
+    "channel_name": "Ch 22",
+    "IsUse": false
+  },
+  {
+    "channel_type": "channel",
+    "index": 23,
+    "channel_group": "",
+    "channel_name": "Ch 23",
+    "IsUse": false
+  },
+  {
+    "channel_type": "channel",
+    "index": 24,
+    "channel_group": "무선마이크",
+    "channel_name": "WL2",
+    "IsUse": true
+  },
+  {
+    "channel_type": "channel",
+    "index": 25,
+    "channel_group": "성가대무선",
+    "channel_name": "WL-PIN",
+    "IsUse": true
+  },
+  {
+    "channel_type": "channel",
+    "index": 26,
+    "channel_group": "",
+    "channel_name": "Ch 26",
+    "IsUse": false
+  },
+  {
+    "channel_type": "channel",
+    "index": 27,
+    "channel_group": "",
+    "channel_name": "Ch 27",
+    "IsUse": false
+  },
+  {
+    "channel_type": "channel",
+    "index": 28,
+    "channel_group": "키보드",
+    "channel_name": "YA-key",
+    "IsUse": true
+  },
+  {
+    "channel_type": "channel",
+    "index": 29,
+    "channel_group": "",
+    "channel_name": "Ch 29",
+    "IsUse": false
+  },
+  {
+    "channel_type": "channel",
+    "index": 30,
+    "channel_group": "",
+    "channel_name": "Ch 30",
+    "IsUse": false
+  },
+  {
+    "channel_type": "channel",
+    "index": 31,
+    "channel_group": "",
+    "channel_name": "Ch 31",
+    "IsUse": false
+  },
+  {
+    "channel_type": "channel",
+    "index": 32,
+    "channel_group": "키보드",
+    "channel_name": "KU-KEY",
+    "IsUse": true
+  },
+  {
+    "channel_type": "aux",
+    "index": 5,
+    "channel_group": "컴퓨터",
+    "channel_name": "출력",
+    "IsUse": true
+  },
+  {
+    "channel_type": "aux",
+    "index": 6,
+    "channel_group": "컴퓨터",
+    "channel_name": "출력",
+    "IsUse": true
+  }
+]
