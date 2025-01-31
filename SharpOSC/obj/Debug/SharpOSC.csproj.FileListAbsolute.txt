@@ -1,6 +1,0 @@
-E:\작업__\유유랑\99. 개인작업\반석교회\OCS\프로그램\SharpOSC\bin\Debug\SharpOSC.dll
-E:\작업__\유유랑\99. 개인작업\반석교회\OCS\프로그램\SharpOSC\bin\Debug\SharpOSC.pdb
-E:\작업__\유유랑\99. 개인작업\반석교회\OCS\프로그램\SharpOSC\obj\Debug\SharpOSC.csproj.AssemblyReference.cache
-E:\작업__\유유랑\99. 개인작업\반석교회\OCS\프로그램\SharpOSC\obj\Debug\SharpOSC.csproj.CoreCompileInputs.cache
-E:\작업__\유유랑\99. 개인작업\반석교회\OCS\프로그램\SharpOSC\obj\Debug\SharpOSC.dll
-E:\작업__\유유랑\99. 개인작업\반석교회\OCS\프로그램\SharpOSC\obj\Debug\SharpOSC.pdb
